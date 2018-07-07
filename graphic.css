@@ -1,0 +1,28 @@
+body {
+    background-image: url(image/sky_background.jpg);
+}
+p {
+    font-size: 26px;
+    font-family: fantasy;
+    background: lightblue;
+    background-size: cover;
+    margin-top: -10px;
+    opacity: 0.7;
+    border: 1px solid cyan;
+}
+table {
+    margin-right: auto;
+    margin-left: 20px;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+    background-size: cover;
+    position: relative;
+    padding: 0px 0px 0px 0px;
+}
+#theading {
+    opacity: 1;
+    color: dimgrey;
+    border: 1px solid black;
+}

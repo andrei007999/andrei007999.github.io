@@ -1,0 +1,42 @@
+body {
+    background-image: url(image/sky_background.jpg);
+    background-attachment: fixed;
+}
+p {
+    font-size: 26px;
+    font-family: fantasy;
+}
+.rightalign {
+    text-align: right;
+    position: absolute;
+    margin-top: -630px;
+    margin-left: 650px;
+    color: aliceblue;
+}
+.alcanimg {
+    background-image: url(image/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png);
+    height: 650px;
+    width: 900px;
+    margin-left: -10px;
+    margin-top: -28px;
+    position:relative;
+}
+.aligncenter {
+    text-align: center;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+    background-size: cover;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    margin-top:0px;
+    z-index: 1;
+}
+.gerb {
+    height: 350px;
+    width: 500px;
+    max-height: 330px;
+    overflow: hidden;
+    margin-left: 530px;
+}
